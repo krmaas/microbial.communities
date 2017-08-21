@@ -2,7 +2,7 @@
 title: "Analysing microbial communites with mothur and R"
 author: "Kendra Maas"
 date: "August 20, 2017"
-output: github_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
