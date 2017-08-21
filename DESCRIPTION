@@ -1,0 +1,10 @@
+Package: microbialcomm
+Title: Analysis of microbial communities with mothur and R
+Version: 0.0.0.9000
+Authors@R: person("Kendra", "Maas", role=c("aut", "cre"),
+  email = "kendra.maas@uconn.edu")
+Depends: R (>= 3.3.0)
+Imports:
+  bookdown
+Remotes:
+rstudio/bookdown
