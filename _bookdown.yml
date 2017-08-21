@@ -3,5 +3,7 @@ new_session: yes
 rmd_files: [
   "index.Rmd",
 
-  "01intro.communities.rmd"
+  "01intro.communities.rmd", 
+  
+  "03mothur.cheatsheet.Rmd"
 ]
